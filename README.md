@@ -6,10 +6,11 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
 - [Apps](#apps)
   - [Wallets](#wallets)
   - [Stacks Web Applications](#stacks-web-applications)
+  - [Blockchain Name System](#blockchain-name-system)
+  - [DeFi](#defi)
     - [Blockchain Name System](#blockchain-name-system)
     - [DeFi](#defi)
 - [Companies and Organizations](#companies-and-organizations)
@@ -55,7 +56,7 @@
 - [Sigle](https://www.sigle.io/) - Decentralized writing platform.
 - [Console](https://www.console.xyz/) - Decentralized community application.
 
-#### Blockchain Name System
+### Blockchain Name System
 - [btc.us](https://btc.us) - An application for .btc names.
 - [stx.name](https://stx.name) - An application for BNS name registration (not open source).
 - [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
@@ -66,15 +67,7 @@
 - [Alex Lab](https://app.alexlab.co) - A service platform for DeFi
 - [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol
 - [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans
-- [Zest Protocol](https://www.zestprotocol.com/) - Decentralized borrowing and lending on Bitcoin.
-
-## Companies and Organizations
-
-- [Hiro](https://www.hiro.so/) - Developer tooling company.
-- [Trust Machines](https://www.trustmachines.co/) - Focused on building the largest ecosystem of Bitcoin applications.
-- [Stacks Foundation](https://stacks.org/) - Funding and education for Stacks builders.
-- [Gamma](https://gamma.io/) - NFT marketplace.
-- [Ryder](https://www.ryder.id/) - Social hardware wallet.
+- [Zest Protocol](https://www.zestprotocol.com/) - Decentralized borrowing and lending on Bitcoin. Currently only on Testnet.
 
 ## Clarity Resources
 
@@ -153,7 +146,7 @@
 
 - [Official Stacks documentation](https://docs.stacks.co/) - Documentation and developer tutorials for learning
   Clarity and developing Stacks apps.
-- [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers
+- [Hiro documentation](https://docs.hiro.so/) - Documentation focused on developers.
 - [Stacks 101](https://stacks101.com) - Community curated STX knowledge.
 
 ### Videos
