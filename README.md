@@ -6,14 +6,12 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
 - [Apps](#apps)
   - [Wallets](#wallets)
   - [Stacks Web Applications](#stacks-web-applications)
   - [Blockchain Name System](#blockchain-name-system)
-  - [DeFi](#defi)
-    - [Blockchain Name System](#blockchain-name-system)
     - [DeFi](#defi)
-- [Companies and Organizations](#companies-and-organizations)
 - [Clarity Resources](#clarity-resources)
   - [Developer Tools](#developer-tools)
   - [Example Contracts](#example-contracts)
@@ -64,9 +62,9 @@
 - [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
 #### DeFi
-- [Alex Lab](https://app.alexlab.co) - A service platform for DeFi
-- [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol
-- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans
+- [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
+- [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
+- [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 - [Zest Protocol](https://www.zestprotocol.com/) - Decentralized borrowing and lending on Bitcoin. Currently only on Testnet.
 
 ## Clarity Resources
@@ -79,8 +77,8 @@
 
 ### Example Contracts
 - [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
-- [Hiro Example Contracts](https://github.com/hirosystems/clarity-examples) - A collection of smaple smart contracts created by the Hiro team.
-- [Audited Smart Contract Templates](https://github.com/clarity-lang/book/tree/main/projects) - Put together by the Stacks Foundation, this is a collection of smart contract starter code that has been audited.
+- [Example Contracts](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
+- [Audited Example Smart Contracts](https://github.com/clarity-lang/book/tree/main/projects) - Another collection of smart contract examples, these have been audited for security.
 
 ### Libraries
 
@@ -135,7 +133,6 @@
 ### Indexing and Querying APIs
 - [Stacks API](https://www.hiro.so/stacks-api) - Hosted API to interact directly with the blockchain to query information, broadcast transactions, and scale your projects on Stacks.
 - [Quicknode](https://www.quicknode.com/chains/stx) - Hosted ednpoint to quickly and easily connect to Stacks using Quicknode.
-- [KYVE](https://www.kyve.network/) - Decentralized data lake that utilizes Arweave to permanently store blockchain data streams.
 - [Self-Hosted Render](https://github.com/stacksfoundation/render-stacks) - One-click deploy tool to self-host a Stacks node on Render.
 - [Self-Hosted Digital Ocean](https://marketplace.digitalocean.com/apps/stacks-blockchain) - Digital Ocean droplet for running a Stacks node.
 - [Self-Hosted Docker](https://github.com/stacks-network/stacks-blockchain-docker) - Tool to run a self-hosted Stacks node with Docker.
@@ -161,15 +158,15 @@
 ### Written Tutorials
 
 - [Built on Bitcoin: An Introduction to Full-Stack Web3 Development with Stacks](https://dev.to/stacks/built-on-bitcoin-an-introduction-to-full-stack-web3-development-with-stacks-me9) - A high-level overview of building full-stack applications with Stacks.
-- [Understanding Stacks Post Conditions](https://dev.to/stacks/understanding-stacks-post-conditions-e65) - A guide to understanding and working with Post Conditions in Stacks
-- [Test-Driven Stacks Development with Clarinet](https://dev.to/stacks/test-driven-stacks-development-with-clarinet-2e4i) - Learn how to utilize test-driven development on Stacks with Clarinet.
+- [Understanding Stacks Post Conditions](https://dev.to/stacks/understanding-stacks-post-conditions-e65) - A guide to understanding and working with Post Conditions in Stacks.
+- [Test-Driven Stacks Development with Clarinet](https://dev.to/stacks/test-driven-stacks-development-with-clarinet-2e4i) - A tutorial showing how to utilize Clarinet for testing and TDD.
 - [Build a DEX with Stacks](https://www.pointer.gg/tutorials/build-a-dex-with-stacks/56abb3a4-05c1-4608-b096-f82189e9f759) - An extensive introduction to working with Stacks by building a full-stack decentralized exchange.
-* [Create a server-side rendered Stacks app with Remix](https://micro-stacks.dev/guides/with-remix) - How to create a server-side rendered Stacks app using Remix and Micro-Stacks
-* [Build a Stacks app with Next.js](https://micro-stacks.dev/guides/with-nextjs) - Using Next.js and Micro-Stacks to create a Stacks application.
-* [Creating a Voting Contract](https://www.clearness.dev/01-voting-clarity-smart-contract/01-getting-started) - Create a voting contract with Clarity.
-* [Building an NFT with Stacks and Clarity](https://blog.developerdao.com/building-an-nft-with-stacks-and-clarity) - Use Clarity to build an NFT smart contract.
-* [Order Book Contract Walkthrough](https://byzantion.hiro.so/) - Walkthrough of an order book smart contract built with Clarity.
-* [NFT Tutorial](https://docs.hiro.so/tutorials/clarity-nft) - Create an NFT with Clarity.
+- [Build a Stacks app with Remix](https://micro-stacks.dev/guides/with-remix) - How to create a server-side rendered Stacks app using the Remix JS framework and Micro-Stacks.
+- [Build a Stacks app with Next.js](https://micro-stacks.dev/guides/with-nextjs) - Similar to the Remix tutorial above, this one utilizing Next.js and Micro-Stacks.
+- [Creating a Voting Contract](https://www.clearness.dev/01-voting-clarity-smart-contract/01-getting-started) - A multi-part series showing how to use Clarity to create a simple voting smart contract.
+- [Building an NFT with Stacks and Clarity](https://blog.developerdao.com/building-an-nft-with-stacks-and-clarity) - Utilize the SIP-009 standard to create an NFT using Clarity.
+- [Order Book Contract Walkthrough](https://byzantion.hiro.so/) - Walkthrough of an order book smart contract built with Clarity.
+- [NFT Tutorial](https://docs.hiro.so/tutorials/clarity-nft) - Create an NFT with Clarity.
 
 ### Books
 
