@@ -4,14 +4,15 @@
 
 [Stacks](https://www.stacks.co/what-is-stacks) is a blockchain anchored by Bitcoin that enables apps, smart contracts, and digital assets. Stacks is a layer-1 blockchain that connects to Bitcoin and implements smart contracts and decentralized applications through the [Clarity language](https://clarity-lang.org/). Through the [Proof of Transfer (PoX) consensus mechanism](https://docs.stacks.co/understand-stacks/proof-of-transfer), the state of the Stacks blockchain is anchored against the Bitcoin blockchain, thus providing the security and finality of Bitcoin to Stacks. Stacks brings the programmability of other blockchain technologies to Bitcoin, without the need to modify the core consensus mechanism of Bitcoin itself.
 
+## Contents
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-
+<!--lint ignore awesome-list-item-->
 - [Apps](#apps)
   - [Wallets](#wallets)
   - [Stacks Web Applications](#stacks-web-applications)
   - [Blockchain Name System](#blockchain-name-system)
-    - [DeFi](#defi)
+  - [DeFi](#defi)
 - [Clarity Resources](#clarity-resources)
   - [Developer Tools](#developer-tools)
   - [Example Contracts](#example-contracts)
@@ -32,7 +33,6 @@
   - [Books](#books)
   - [Courses](#courses)
 - [Community](#community)
-- [Contributing](#contributing)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -61,7 +61,7 @@
 - [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
 - [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 
-#### DeFi
+### DeFi
 - [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
 - [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
 - [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
