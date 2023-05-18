@@ -14,6 +14,7 @@
   - [Blockchain Name System](#blockchain-name-system)
   - [DeFi](#defi)
   - [Games](#games)
+  - [Stacking Apps](#stacking-apps)
 - [Clarity Resources](#clarity-resources)
   - [Developer Tools](#developer-tools)
   - [Example Contracts](#example-contracts)
@@ -57,12 +58,12 @@
 - [Console](https://www.console.xyz/) - Decentralized community application.
 
 ### Blockchain Name System
+- [BNSx](https://www.dots.so/) - Manage many BNS names with one account (1:n).
 - [btc.us](https://btc.us) - An application for .btc names.
-- [stx.name](https://stx.name) - An application for BNS name registration (not open source).
 - [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
-- [BNS transfer](https://www.bnstransfer.com) - An application to transfer BNS names.
+- [BNS and Ordinals](https://www.bns.xyz/) - Inscribe BNS as Ordinal.
 - [Owl.link](https://owl.link) - An application to create linking page for BNS names.
-
+- [Ryder Handles](https://handles.ryder.id) - BNS namespaces for communities.
 ### DeFi
 - [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
 - [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
@@ -73,14 +74,21 @@
 - [Stacks Degens](https://stacksdegens.com) - A car racing game with retro graphics enabled through NFTs.
 - [Project Indigo](https://www.projectindigonft.com) - An interactive story and RPG experience.
 
+### Stacking Apps
+- [Lock Stacks](https://lockstacks.com) - App to stack Stacks token directly or with a pool.
+- [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
+- [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
+- [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
 ## Clarity Resources
 
 ### Developer Tools
 
 - [Clarinet](https://github.com/hirosystems/clarinet) - Clarity runtime packaged as a CLI, facilitates development and testing of Clarity smart contracts.
+- [Clariform](https://github.com/njordhov/clariform) - Linter and formatter for Clarity.
 - [Clarigen](https://github.com/obylabs/clarigen) - A tool for writing TypeScript code that interacts with Clarity smart contracts.
 - [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
-
+- [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
+- [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
 ### Example Contracts
 - [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 - [Example Contracts](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
@@ -89,7 +97,7 @@
 ### Libraries
 
 - [uint256](https://github.com/KStasi/clarity-uint256-lib) - A library for converting values into 256-bits.
-- [clarity-bitcoin](https://github.com/jcnelson/clarity-bitcoin) - A library to verify Bitcoin transactions.
+- [clarity-bitcoin](https://github.com/friedger/clarity-bitcoin) - A library to verify Bitcoin transactions.
 
 ### Contracts
 
@@ -103,7 +111,7 @@
 - [Election Voting](https://github.com/elbaruni/clarity-election/blob/master/contracts/election.clar) - Basic voting for candidates using Clarity.
 - [DualX](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
 - [ExecutorDAO](https://github.com/MarvinJanssen/executor-dao) - A Clarity framework for building DAO functionality into your smart contracts.
-
+- [Digital Will](https://github.com/LoRdSoban/Cryptonomers) - Conditional fund transfers.
 ### Non-Fungible Tokens
 
 - [Tofauti](https://www.tofauti.net) - Collection of resources around NFTs on Stacks.
@@ -114,10 +122,7 @@
 - [Nothing](https://www.nothingtoken.com/) - A fungible token that does nothing ([contract](https://explorer.stacks.co/txid/0x022bed728d648ff1a68036c40f3aff8136ee22fee18380731df0ab9d76d3c4a9?chain=mainnet)).
 
 ### Stacking
-
-- [stacking.club](https://stacking.club) - Stacking information and statistics.
-- [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
-- [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
+- [Stacking Pools](https://github.com/friedger/clarity-stacking-pools) - Wrapper contracts of PoX for stacking pools.
 
 ## App Development
 
