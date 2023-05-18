@@ -1,4 +1,4 @@
-# Awesome Stacks [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Stacks[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [![Awesome Stacks](img/awesome-stacks.png 'Awesome Stacks')](https://www.stacks.co)
 
@@ -13,6 +13,7 @@
   - [Stacks Web Applications](#stacks-web-applications)
   - [Blockchain Name System](#blockchain-name-system)
   - [DeFi](#defi)
+  - [Games](#games)
 - [Clarity Resources](#clarity-resources)
   - [Developer Tools](#developer-tools)
   - [Example Contracts](#example-contracts)
@@ -33,6 +34,7 @@
   - [Books](#books)
   - [Courses](#courses)
 - [Community](#community)
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
