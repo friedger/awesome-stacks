@@ -56,6 +56,7 @@
 - [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend)).
 - [Sigle](https://www.sigle.io/) - Decentralized writing platform.
 - [Console](https://www.console.xyz/) - Decentralized community application.
+- [Stacks On Chain](https://stacksonchain.com) - Chain data analysis tool.
 
 ### Blockchain Name System
 - [BNSx](https://www.dots.so/) - Manage many BNS names with one account (1:n).
@@ -64,6 +65,7 @@
 - [BNS and Ordinals](https://www.bns.xyz/) - Inscribe BNS as Ordinal.
 - [Owl.link](https://owl.link) - An application to create linking page for BNS names.
 - [Ryder Handles](https://handles.ryder.id) - BNS namespaces for communities.
+
 ### DeFi
 - [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
 - [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
@@ -79,6 +81,7 @@
 - [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
 - [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
 - [Xverse pool](https://pool.xverse.app/) - Stacking pool built into Xverse mobile app.
+
 ## Clarity Resources
 
 ### Developer Tools
