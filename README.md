@@ -1,13 +1,15 @@
 # Awesome Stacks[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome Stacks](img/awesome-stacks.png 'Awesome Stacks')](https://www.stacks.co)
+[![Awesome Stacks](img/awesome-stacks.png "Awesome Stacks")](https://www.stacks.co)
 
 [Stacks](https://www.stacks.co/what-is-stacks) is a blockchain anchored by Bitcoin that enables apps, smart contracts, and digital assets. Stacks is a layer-1 blockchain that connects to Bitcoin and implements smart contracts and decentralized applications through the [Clarity language](https://clarity-lang.org/). Through the [Proof of Transfer (PoX) consensus mechanism](https://docs.stacks.co/understand-stacks/proof-of-transfer), the state of the Stacks blockchain is anchored against the Bitcoin blockchain, thus providing the security and finality of Bitcoin to Stacks. Stacks brings the programmability of other blockchain technologies to Bitcoin, without the need to modify the core consensus mechanism of Bitcoin itself.
 
 ## Contents
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 <!--lint ignore awesome-list-item-->
+
 - [Apps](#apps)
   - [Wallets](#wallets)
   - [Stacks Web Applications](#stacks-web-applications)
@@ -36,7 +38,6 @@
   - [Courses](#courses)
 - [Community](#community)
 
-
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Apps
@@ -56,9 +57,9 @@
 - [Speed Spend](https://speed-spend.org) - A suite of working Clarity experiments on testnet ([source](https://github.com/friedger/speed-spend)).
 - [Sigle](https://www.sigle.io/) - Decentralized writing platform.
 - [Console](https://www.console.xyz/) - Decentralized community application.
-- [Stacks On Chain](https://stacksonchain.com) - Chain data analysis tool.
 
 ### Blockchain Name System
+
 - [BNSx](https://www.dots.so/) - Manage many BNS names with one account (1:n).
 - [btc.us](https://btc.us) - An application for .btc names.
 - [BNS search](https://www.bnssearch.com/) - An application to search registered BNS names.
@@ -67,16 +68,19 @@
 - [Ryder Handles](https://handles.ryder.id) - BNS namespaces for communities.
 
 ### DeFi
+
 - [Alex Lab](https://app.alexlab.co) - A service platform for DeFi.
 - [Lydian](https://app.lydian.xyz) - A decentralised treasury management protocol.
 - [Arkadiko Protocol](https://github.com/arkadiko-dao/arkadiko) - Stable coin (USDA) based on self-repaying loans.
 - [Zest Protocol](https://www.zestprotocol.com/) - Decentralized borrowing and lending on Bitcoin. Currently only on Testnet.
 
 ### Games
+
 - [Stacks Degens](https://stacksdegens.com) - A car racing game with retro graphics enabled through NFTs.
 - [Project Indigo](https://www.projectindigonft.com) - An interactive story and RPG experience.
 
 ### Stacking Apps
+
 - [Lock Stacks](https://lockstacks.com) - App to stack Stacks token directly or with a pool.
 - [Friedger pool](https://pool.friedger.de/) - Community stacking pool with no fees.
 - [PlanBetter pool](https://planbetter.org/) - Stacking pool with Bitcoin rewards.
@@ -92,7 +96,9 @@
 - [clarity.tools](https://clarity.tools) - In-browser Clarity REPL.
 - [ClarityGPT Prompt](https://claritygpt.com/) - Writing smart contracts with a chat bot.
 - [Hiro Platform](https://platform.hiro.so/) - In-browser IDE.
+
 ### Example Contracts
+
 - [Source of Clarity](https://source-of-clarity.com) - Listing of all deployed Clarity contracts on mainnet with some comments.
 - [Example Contracts](https://github.com/hirosystems/clarity-examples) - A collection of sample smart contracts to serve as a starting point for writing your own.
 - [Audited Example Smart Contracts](https://github.com/clarity-lang/book/tree/main/projects) - Another collection of smart contract examples, these have been audited for security.
@@ -115,6 +121,7 @@
 - [DualX](https://github.com/westridgeblockchain/dualX) - A collection of Clarity contracts that implement a DeFi ecosystem for exchanges.
 - [ExecutorDAO](https://github.com/MarvinJanssen/executor-dao) - A Clarity framework for building DAO functionality into your smart contracts.
 - [Digital Will](https://github.com/LoRdSoban/Cryptonomers) - Conditional fund transfers.
+
 ### Non-Fungible Tokens
 
 - [Tofauti](https://www.tofauti.net) - Collection of resources around NFTs on Stacks.
@@ -125,6 +132,7 @@
 - [Nothing](https://www.nothingtoken.com/) - A fungible token that does nothing ([contract](https://explorer.stacks.co/txid/0x022bed728d648ff1a68036c40f3aff8136ee22fee18380731df0ab9d76d3c4a9?chain=mainnet)).
 
 ### Stacking
+
 - [Stacking Pools](https://github.com/friedger/clarity-stacking-pools) - Wrapper contracts of PoX for stacking pools.
 
 ## App Development
@@ -145,6 +153,7 @@
 - [GaiaDown](https://github.com/AcidLeroy/gaiadown-ts) - Gaia storage backend for [LevelUp](https://github.com/Level/levelup).
 
 ### Indexing and Querying APIs
+
 - [Stacks API](https://www.hiro.so/stacks-api) - Hosted API to interact directly with the blockchain to query information, broadcast transactions, and scale your projects on Stacks.
 - [Quicknode](https://www.quicknode.com/chains/stx) - Hosted ednpoint to quickly and easily connect to Stacks using Quicknode.
 - [Self-Hosted Render](https://github.com/stacksfoundation/render-stacks) - One-click deploy tool to self-host a Stacks node on Render.
